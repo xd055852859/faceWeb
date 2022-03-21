@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>编组 2备份</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="40" cy="40" r="40"></circle>
+        <filter x="-12.5%" y="-12.5%" width="135.0%" height="135.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="快速取卦-解卦详情" transform="translate(-1675.000000, -362.000000)">
+            <g id="编组-3" transform="translate(1671.000000, 200.000000)">
+                <g id="编组-2备份" transform="translate(8.000000, 166.000000)">
+                    <g id="椭圆形">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#EE817D" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="保存" transform="translate(23.000000, 23.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                        <path d="M29.1422118,0 L4.85774858,0 C2.17490726,0 0,2.17490726 0,4.85774858 L0,29.1422514 C0,31.8250927 2.17490726,34 4.85774858,34 L29.1422514,34 C31.8250927,34 34,31.8250927 34,29.1422514 L34,4.85774858 C34,2.17490726 31.8250927,0 29.1422118,0 Z M24.2112728,2.50888044 L24.2112728,12.0645238 L9.80239834,12.0645238 L9.80239834,2.50888044 L24.2112728,2.50888044 Z M31.5733858,29.1488294 C31.5744543,30.4868224 30.4906662,31.5723145 29.1526732,31.5733844 L4.86337556,31.5733844 C4.21393482,31.5733844 3.60071281,31.3238556 3.14144024,30.864583 C2.68216767,30.4053104 2.42661557,29.7982306 2.42661557,29.1488294 L2.42661557,4.86008655 C2.4290328,3.51583258 3.51912159,2.42720997 4.86337556,2.42661557 L7.29355753,2.42661557 L7.29355753,12.1467887 C7.2915762,13.4850194 8.37480959,14.5714229 9.71304031,14.5734042 L24.2911997,14.5734042 C25.6326798,14.5734042 26.7202722,13.4881499 26.7202722,12.1467887 L26.7202722,2.42661557 L29.1456593,2.42661557 C30.4878923,2.42804213 31.574811,3.51729877 31.5733858,4.85953178 L31.5733858,29.1488294 Z" id="形状" stroke="#FFFFFF" stroke-width="0.6"></path>
+                        <path d="M19,10 C19.5522808,10 20,9.43127829 20,8.7297358 L20,6.2702642 C20,5.56872171 19.5522808,5 19,5 C18.4477192,5 18,5.56872171 18,6.2702642 L18,8.7297358 C18,9.43127829 18.4477192,10 19,10 Z" id="路径"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
